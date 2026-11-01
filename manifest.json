@@ -1,24 +1,24 @@
 {
-    "notes":  "v5: ghost controller spawn moved to obj_time Step (fixes obj_mainchara not set errors in chapters 1-4); modbridge_log defined before first use.",
-    "version":  "5",
+    "notes":  "v6: chat no longer freezes the player (global.interact is left alone, movement is cleared instead); Enter sends and closes the input box.",
+    "version":  "6",
     "chapters":  [
                      {
                          "slot":  "chapter1",
                          "chapter":  1,
                          "label":  "Chapter 1",
                          "world_id":  "ghost-ch1-v1",
-                         "patch_url":  "patches/deltarune-chapter1-ghost-v5-20261102-002952.xdelta",
-                         "patch_sha256":  "6ecc1d468013e9a2c59d614aac8a0728e4d4820f669e247d37c0643e8c1d4582",
+                         "patch_url":  "patches/deltarune-chapter1-ghost-v6-20261102-003906.xdelta",
+                         "patch_sha256":  "d837d9e5703647507fdfe4f49ce2e802fd8497de63671f9daa0bdf91cb4f3b13",
                          "original_sha256":  "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
-                         "result_sha256":  "21bf9874932bf614ba8c5c3d745a56a8d0208c28b693cbd2be6a297196c97901",
-                         "result_bytes":  15984016
+                         "result_sha256":  "b59a54d49a963dc8f43739ae3d8d972eaaee7a0b379655f628ef275663903cfe",
+                         "result_bytes":  15984144
                      },
                      {
                          "slot":  "chapter1-01",
                          "chapter":  1,
                          "label":  "Chapter 1 (1-01)",
                          "world_id":  "ghost-ch1-01-v1",
-                         "patch_url":  "patches/deltarune-chapter1-01-ghost-v5-20261102-002954.xdelta",
+                         "patch_url":  "patches/deltarune-chapter1-01-ghost-v6-20261102-003908.xdelta",
                          "patch_sha256":  "d1952643b8f4cb552244e2e85fdc0c5f752ae73d9ba42775ea84b02a41fc7709",
                          "original_sha256":  "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
                          "result_sha256":  "5fc09fd8c8efb46e37222bd091dac22fa99ec3b6df91ada0a9a68588f202488f",
@@ -29,44 +29,44 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "ghost-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-ghost-v5-20261102-002959.xdelta",
-                         "patch_sha256":  "b21d3c0c443c2bfb773ba0620fcb44fe94cef236e51e17e57e26a569c417590c",
+                         "patch_url":  "patches/deltarune-chapter2-ghost-v6-20261102-003914.xdelta",
+                         "patch_sha256":  "978c1746d78e0ac47e0aa6ac8a7ab974aafa1304f6c6e0147add78e9dc582f8e",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "58b9fd4d1f74ee2d6337456aedc2264d2ea483b49bbdb0fb81d440757d4bb800",
-                         "result_bytes":  68982012
+                         "result_sha256":  "2511880f4f1022c09866194e49cdabd0fb17a5d8b52b416fef4bba4f9649702d",
+                         "result_bytes":  68982140
                      },
                      {
                          "slot":  "chapter3",
                          "chapter":  3,
                          "label":  "Chapter 3",
                          "world_id":  "ghost-ch3-v1",
-                         "patch_url":  "patches/deltarune-chapter3-ghost-v5-20261102-003005.xdelta",
-                         "patch_sha256":  "b20a20c31f4bb6c2144d6125979c55d3cca5a6820a8eb64fc3df9dc4460bcf38",
+                         "patch_url":  "patches/deltarune-chapter3-ghost-v6-20261102-003919.xdelta",
+                         "patch_sha256":  "6e375d1dc42c3cd5df14ca00a36985252188fbf154ef0a916cabf7311b9f8ebd",
                          "original_sha256":  "c1a0925343694ec9b9adcbf2f916a720b02fd1b999286cfe8fe6a52f3320f714",
-                         "result_sha256":  "29237be77c71e31e91e3a78f32bb6a745c7307f6c19ed560f74992dfadc27a86",
-                         "result_bytes":  126754226
+                         "result_sha256":  "ccadcf833f71693de749b44d4cad19bd2450d9b1af7872c818c6d8182e78004a",
+                         "result_bytes":  126754354
                      },
                      {
                          "slot":  "chapter4",
                          "chapter":  4,
                          "label":  "Chapter 4",
                          "world_id":  "ch4-test-v1",
-                         "patch_url":  "patches/deltarune-chapter4-ghost-v5-20261102-003011.xdelta",
-                         "patch_sha256":  "f5ad74c3d053d66d030796ea29a330789d0aa4ca9102f82b0b4f1d2d10c1345b",
+                         "patch_url":  "patches/deltarune-chapter4-ghost-v6-20261102-003925.xdelta",
+                         "patch_sha256":  "258684a7edcfde0353b7aa29ef30ff312e6b8ac1e1327bcd0151675d508fb4bb",
                          "original_sha256":  "ed64789586238b52375e994e1c1cf13694dd2d0dab57d13e639b9c892e37d8f2",
-                         "result_sha256":  "e0b328f476fac3a198271679378f1f89dcc2c68392b9e61702b5883e223dc3de",
-                         "result_bytes":  133109278
+                         "result_sha256":  "19c67abfa86178db68a9deb1a84865f5bb5a9dd27f7e97556ea1a46fd581f01e",
+                         "result_bytes":  133109406
                      },
                      {
                          "slot":  "chapter5",
                          "chapter":  5,
                          "label":  "Chapter 5",
                          "world_id":  "ghost-ch5-v1",
-                         "patch_url":  "patches/deltarune-chapter5-ghost-v5-20261102-003017.xdelta",
-                         "patch_sha256":  "8489d19b58d943ede77974d6b2ef4baccf4f0d85e335488b640d60accfcada80",
+                         "patch_url":  "patches/deltarune-chapter5-ghost-v6-20261102-003930.xdelta",
+                         "patch_sha256":  "46fb75047071f884f94e5d1283dcc70401141a3ec87ecb3371be02cf0016c354",
                          "original_sha256":  "370dfd141d2955d5a1960122919b16e4092b52ffbb85fda541bc4680c6b3b85c",
-                         "result_sha256":  "933afc3bbb258827ae6ab6bba373e01b9f21ffc4e950aa8e198b50a9dcd70a3e",
-                         "result_bytes":  181838936
+                         "result_sha256":  "60894654606560f1812f4ebb9d86b7ccf72191dff7b9322ccd6c840b6770860f",
+                         "result_bytes":  181839064
                      }
                  ]
 }
