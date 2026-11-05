@@ -1,72 +1,61 @@
 {
-    "notes":  "v8: chat fully working - overlay drawn, T opens, Enter sends+closes, and all gameplay/custom hotkeys (C/X/Z, K knight, N, Q, F-keys) are blocked while typing.",
-    "version":  "8",
+    "version":  "10",
+    "notes":  "fix: UTF-8 chat (no \\uXXXX escapes), single HUD, bad frames are skipped instead of dropping the session",
     "chapters":  [
                      {
                          "slot":  "chapter1",
                          "chapter":  1,
                          "label":  "Chapter 1",
-                         "world_id":  "ghost-ch1-v1",
-                         "patch_url":  "patches/deltarune-chapter1-ghost-v8-20261102-015933.xdelta",
-                         "patch_sha256":  "145fe40d7d1bbec854aff8753e9dec3acbe323d35ce49371629060e57b9b8135",
+                         "world_id":  "online-ch1-v1",
+                         "patch_url":  "patches/deltarune-chapter1-online-v10-20261105-143034.xdelta",
+                         "patch_sha256":  "e7e9d533f33d64b40b1f8c41b3f8c97ea0897006d94fb0fa70e6eec9ce9e25c5",
                          "original_sha256":  "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
-                         "result_sha256":  "479b4889f6adb2f8c08f94cd50742e6948d8c346b7b95156a5a45db49f941e52",
-                         "result_bytes":  15990160
-                     },
-                     {
-                         "slot":  "chapter1-01",
-                         "chapter":  1,
-                         "label":  "Chapter 1 (1-01)",
-                         "world_id":  "ghost-ch1-01-v1",
-                         "patch_url":  "patches/deltarune-chapter1-01-ghost-v8-20261102-015935.xdelta",
-                         "patch_sha256":  "d1952643b8f4cb552244e2e85fdc0c5f752ae73d9ba42775ea84b02a41fc7709",
-                         "original_sha256":  "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
-                         "result_sha256":  "5fc09fd8c8efb46e37222bd091dac22fa99ec3b6df91ada0a9a68588f202488f",
-                         "result_bytes":  32110694
+                         "result_sha256":  "b48806540357d526935732c8ec9c71c6180183c2ce53fabba81ca520f458b293",
+                         "result_bytes":  13107692
                      },
                      {
                          "slot":  "chapter2",
                          "chapter":  2,
                          "label":  "Chapter 2",
-                         "world_id":  "ghost-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-ghost-v8-20261102-015941.xdelta",
-                         "patch_sha256":  "0f23855391af95cf924d3963f4510c7d9f9d10864e05d5681f481028b761af93",
+                         "world_id":  "online-ch2-v1",
+                         "patch_url":  "patches/deltarune-chapter2-online-v10-20261105-143035.xdelta",
+                         "patch_sha256":  "db56286271d7e145bbdbad8c61c5bca5263c1ad610688b3f2b323d32b4e4640b",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "05c0eef3f87ca7dab9653923449b6e8560053597ac9b4660a9570494099993f9",
-                         "result_bytes":  68988668
+                         "result_sha256":  "52a8f191e5f8494c8382c56292952808319f5cc213e02c6897823beb5407fb68",
+                         "result_bytes":  66983414
                      },
                      {
                          "slot":  "chapter3",
                          "chapter":  3,
                          "label":  "Chapter 3",
-                         "world_id":  "ghost-ch3-v1",
-                         "patch_url":  "patches/deltarune-chapter3-ghost-v8-20261102-015945.xdelta",
-                         "patch_sha256":  "79b45aef807daa55852d21afcdc2a8a0a9834037199491141416e15cf1a67f27",
+                         "world_id":  "online-ch3-v1",
+                         "patch_url":  "patches/deltarune-chapter3-online-v10-20261105-143041.xdelta",
+                         "patch_sha256":  "6dc24de425b49afa94bdae01b19c628f89375f13a286c2bf9f3590a23ad7f174",
                          "original_sha256":  "c1a0925343694ec9b9adcbf2f916a720b02fd1b999286cfe8fe6a52f3320f714",
-                         "result_sha256":  "40df3edefb19d86890ba91ce89f6dcc7b0d48c0dfb042825e8f18564dc1d797b",
-                         "result_bytes":  126759730
+                         "result_sha256":  "7fe67f0b5279dc713e69364941155ed6ec9c39c98f91c9a18d6148f6388f566d",
+                         "result_bytes":  126317298
                      },
                      {
                          "slot":  "chapter4",
                          "chapter":  4,
                          "label":  "Chapter 4",
-                         "world_id":  "ch4-test-v1",
-                         "patch_url":  "patches/deltarune-chapter4-ghost-v8-20261102-015950.xdelta",
-                         "patch_sha256":  "98242089f53bcf6fd5f57b9be45917bb7d2ac8ff6ed6b73f1f8a64c076322d60",
+                         "world_id":  "online-ch4-v1",
+                         "patch_url":  "patches/deltarune-chapter4-online-v10-20261105-143051.xdelta",
+                         "patch_sha256":  "ce55813f21197879b4de491c7adc696338e330d0b222e548ea0f1c0a3ab1ef3d",
                          "original_sha256":  "ed64789586238b52375e994e1c1cf13694dd2d0dab57d13e639b9c892e37d8f2",
-                         "result_sha256":  "c49594d6b194f30a850690a2f8b1b7e340d932a3c4f96294c5427b3136022375",
-                         "result_bytes":  133114782
+                         "result_sha256":  "b313d5aeff372cf5d15bc9c5693c083f40f184dd9cc7ee81c4764f6ba2169115",
+                         "result_bytes":  132074942
                      },
                      {
                          "slot":  "chapter5",
                          "chapter":  5,
                          "label":  "Chapter 5",
-                         "world_id":  "ghost-ch5-v1",
-                         "patch_url":  "patches/deltarune-chapter5-ghost-v8-20261102-015956.xdelta",
-                         "patch_sha256":  "5c5af3b055bc45bfba9dd6b5d153fc884b2588cbeb2220943bd0bff549265309",
+                         "world_id":  "online-ch5-v1",
+                         "patch_url":  "patches/deltarune-chapter5-online-v10-20261105-143101.xdelta",
+                         "patch_sha256":  "2dae4db65c81ca0d169f97af418e2feb3a67fe9111fb2acee2f0407e5a4a5b79",
                          "original_sha256":  "370dfd141d2955d5a1960122919b16e4092b52ffbb85fda541bc4680c6b3b85c",
-                         "result_sha256":  "e1072c2c73f3cd44bf54aca442b1dc36d6054baca28f45b1b43823d40b03fda3",
-                         "result_bytes":  181844184
+                         "result_sha256":  "44b0dccd30c1d34c18e151d81024731f35f6b5ac5a76ec864c3eac4df04e399f",
+                         "result_bytes":  165456252
                      }
                  ]
 }
