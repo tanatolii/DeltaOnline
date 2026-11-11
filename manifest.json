@@ -1,17 +1,17 @@
 {
-    "version":  "10",
-    "notes":  "fix: UTF-8 chat (no \\uXXXX escapes), single HUD, bad frames are skipped instead of dropping the session",
+    "version":  "11",
+    "notes":  "Chapter 1 online build (120 fps, co-op battle fixes).",
     "chapters":  [
                      {
                          "slot":  "chapter1",
                          "chapter":  1,
                          "label":  "Chapter 1",
                          "world_id":  "online-ch1-v1",
-                         "patch_url":  "patches/deltarune-chapter1-online-v10-20261105-143034.xdelta",
-                         "patch_sha256":  "e7e9d533f33d64b40b1f8c41b3f8c97ea0897006d94fb0fa70e6eec9ce9e25c5",
+                         "patch_url":  "patches/deltarune-chapter1-online-v11.xdelta",
+                         "patch_sha256":  "4b36f94017e037dd10b532776c3f691a6bddc6fc628125666108243f2375fbe0",
                          "original_sha256":  "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
-                         "result_sha256":  "b48806540357d526935732c8ec9c71c6180183c2ce53fabba81ca520f458b293",
-                         "result_bytes":  13107692
+                         "result_sha256":  "7e2103aefab0b83d6fac2e1f8674b8dd56c9f0e8c2478770c1dc8cac47842ccb",
+                         "result_bytes":  13339372
                      },
                      {
                          "slot":  "chapter2",
