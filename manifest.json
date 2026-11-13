@@ -1,6 +1,6 @@
 {
-    "version":  "15",
-    "notes":  "Party UI, F7 invites, and font assets",
+    "version":  "16",
+    "notes":  "Party reconnect state and immediate client receive",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,11 +18,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v15-20261113-235251.xdelta",
-                         "patch_sha256":  "39cbb1e0a5d8aad99f91b7bd28c3db961e4b7bb4994ea405c2e126cb218ffa20",
+                         "patch_url":  "patches/deltarune-chapter2-online-v16-20261114-005345.xdelta",
+                         "patch_sha256":  "6e9df8a673203c5f3ea75553b0bc0c0f01bd5b135349fc609095c1a807188cdf",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "95f290d11778e92d1e9961eae24a2d70671f8bc9169b62e2361d404419da4e3c",
-                         "result_bytes":  67393526,
+                         "result_sha256":  "a5ff108c8dd81828dffac5cdcea0b3dc8ab90c4a7229ee88468c9bb706c61547",
+                         "result_bytes":  67394294,
                          "assets":  [
                                         {
                                             "file":  "online-font.png",
