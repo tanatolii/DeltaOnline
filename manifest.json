@@ -1,6 +1,6 @@
 {
-    "version":  "17",
-    "notes":  "Double player and soul position update rates",
+    "version":  "18",
+    "notes":  "Party key P and smooth player appearances",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,11 +18,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v17-20261114-013527.xdelta",
-                         "patch_sha256":  "b61188c969e58e8a44a0f75c71836eb48437f34b7d441c9a640f536a8fa1efa1",
+                         "patch_url":  "patches/deltarune-chapter2-online-v18-20261114-015448.xdelta",
+                         "patch_sha256":  "9696d387db4a0449327d7e2be27051cb919bfe6d46f0b993a9600c5da3e2a8a5",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "0120f84606bd0050b9fc5f5e20b03d82c86caceac6983062e0d2c177fe580671",
-                         "result_bytes":  67394294,
+                         "result_sha256":  "2d713bb4ee6e4d2d32666896ae0041202dd324ea0e0e5cfbab096bbee345741f",
+                         "result_bytes":  67394550,
                          "assets":  [
                                         {
                                             "file":  "online-font.png",
