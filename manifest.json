@@ -1,6 +1,6 @@
 {
-    "version":  "14",
-    "notes":  "Party menu, F7 party invites, and font assets",
+    "version":  "15",
+    "notes":  "Party UI, F7 invites, and font assets",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,11 +18,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v14-20261113-234906.xdelta",
-                         "patch_sha256":  "368ea81888d404ef035f939b8d281d9e0e41349dcb5ca7d8fd8cc55c0cd17c4c",
+                         "patch_url":  "patches/deltarune-chapter2-online-v15-20261113-235251.xdelta",
+                         "patch_sha256":  "39cbb1e0a5d8aad99f91b7bd28c3db961e4b7bb4994ea405c2e126cb218ffa20",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "8e339966fc31a22fd2382b06af3e969aad582bb504110db7a3e319b1176cb7f7",
-                         "result_bytes":  67393142,
+                         "result_sha256":  "95f290d11778e92d1e9961eae24a2d70671f8bc9169b62e2361d404419da4e3c",
+                         "result_bytes":  67393526,
                          "assets":  [
                                         {
                                             "file":  "online-font.png",
