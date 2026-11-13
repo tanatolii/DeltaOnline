@@ -1,6 +1,6 @@
 {
-    "version":  "12",
-    "notes":  "Chapter 2 current online build",
+    "version":  "13",
+    "notes":  "Chapter 2 120 FPS and battle menu labels",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,11 +18,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v12-20261113-212727.xdelta",
-                         "patch_sha256":  "e2f3438c96677971fbe29eae88c0d0dbf04c49e833c8bc36c3bddd7def358d24",
+                         "patch_url":  "patches/deltarune-chapter2-online-v13-20261113-223918.xdelta",
+                         "patch_sha256":  "702e84c02bafa2c054a0cab749a0d01f7275916cbf2651e3d0c9d616492d886c",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "0a1bceac85d6d7da8726bc99b0779d79d1f41082a47b5fb76321ee3d8ca30c71",
-                         "result_bytes":  67238390
+                         "result_sha256":  "c4f38d348025e9584456070fb44588a9f96b4d6cf5ecdf7b0e42b88f5dcd8636",
+                         "result_bytes":  67391222
                      },
                      {
                          "slot":  "chapter3",
