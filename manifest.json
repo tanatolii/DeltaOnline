@@ -1,6 +1,6 @@
 {
-    "version":  "18",
-    "notes":  "Party key P and smooth player appearances",
+    "version":  "19",
+    "notes":  "Leader-only enemy choice and room transition fades",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,11 +18,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v18-20261114-015448.xdelta",
-                         "patch_sha256":  "9696d387db4a0449327d7e2be27051cb919bfe6d46f0b993a9600c5da3e2a8a5",
+                         "patch_url":  "patches/deltarune-chapter2-online-v19-20261114-020809.xdelta",
+                         "patch_sha256":  "6b1516c6118909fd77e705a4719fbd8c61ae5e5fbb42aa4006093d845c8fba31",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "2d713bb4ee6e4d2d32666896ae0041202dd324ea0e0e5cfbab096bbee345741f",
-                         "result_bytes":  67394550,
+                         "result_sha256":  "e1f691f123c5a8c5ee54418f08ab21596ca7cf04bb3a224f0eed11af5f8f9591",
+                         "result_bytes":  67396726,
                          "assets":  [
                                         {
                                             "file":  "online-font.png",
