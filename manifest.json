@@ -1,6 +1,6 @@
 {
-    "version":  "16",
-    "notes":  "Party reconnect state and immediate client receive",
+    "version":  "17",
+    "notes":  "Double player and soul position update rates",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,10 +18,10 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v16-20261114-005345.xdelta",
-                         "patch_sha256":  "6e9df8a673203c5f3ea75553b0bc0c0f01bd5b135349fc609095c1a807188cdf",
+                         "patch_url":  "patches/deltarune-chapter2-online-v17-20261114-013527.xdelta",
+                         "patch_sha256":  "b61188c969e58e8a44a0f75c71836eb48437f34b7d441c9a640f536a8fa1efa1",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "a5ff108c8dd81828dffac5cdcea0b3dc8ab90c4a7229ee88468c9bb706c61547",
+                         "result_sha256":  "0120f84606bd0050b9fc5f5e20b03d82c86caceac6983062e0d2c177fe580671",
                          "result_bytes":  67394294,
                          "assets":  [
                                         {
