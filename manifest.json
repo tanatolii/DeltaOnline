@@ -1,6 +1,6 @@
 {
-    "version":  "13",
-    "notes":  "Chapter 2 120 FPS and battle menu labels",
+    "version":  "14",
+    "notes":  "Party menu, F7 party invites, and font assets",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,11 +18,23 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v13-20261113-223918.xdelta",
-                         "patch_sha256":  "702e84c02bafa2c054a0cab749a0d01f7275916cbf2651e3d0c9d616492d886c",
+                         "patch_url":  "patches/deltarune-chapter2-online-v14-20261113-234906.xdelta",
+                         "patch_sha256":  "368ea81888d404ef035f939b8d281d9e0e41349dcb5ca7d8fd8cc55c0cd17c4c",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "c4f38d348025e9584456070fb44588a9f96b4d6cf5ecdf7b0e42b88f5dcd8636",
-                         "result_bytes":  67391222
+                         "result_sha256":  "8e339966fc31a22fd2382b06af3e969aad582bb504110db7a3e319b1176cb7f7",
+                         "result_bytes":  67393142,
+                         "assets":  [
+                                        {
+                                            "file":  "online-font.png",
+                                            "url":  "assets/chapter2/c9dc40f1c92d-online-font.png",
+                                            "sha256":  "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
+                                        },
+                                        {
+                                            "file":  "online-font-big.png",
+                                            "url":  "assets/chapter2/8380c79fed15-online-font-big.png",
+                                            "sha256":  "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
+                                        }
+                                    ]
                      },
                      {
                          "slot":  "chapter3",
