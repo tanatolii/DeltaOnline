@@ -1,6 +1,6 @@
 {
-    "version":  "11",
-    "notes":  "Chapter 1 online build (120 fps, co-op battle fixes).",
+    "version":  "12",
+    "notes":  "Chapter 2 current online build",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -18,11 +18,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v10-20261105-143035.xdelta",
-                         "patch_sha256":  "db56286271d7e145bbdbad8c61c5bca5263c1ad610688b3f2b323d32b4e4640b",
+                         "patch_url":  "patches/deltarune-chapter2-online-v12-20261113-212727.xdelta",
+                         "patch_sha256":  "e2f3438c96677971fbe29eae88c0d0dbf04c49e833c8bc36c3bddd7def358d24",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "52a8f191e5f8494c8382c56292952808319f5cc213e02c6897823beb5407fb68",
-                         "result_bytes":  66983414
+                         "result_sha256":  "0a1bceac85d6d7da8726bc99b0779d79d1f41082a47b5fb76321ee3d8ca30c71",
+                         "result_bytes":  67238390
                      },
                      {
                          "slot":  "chapter3",
