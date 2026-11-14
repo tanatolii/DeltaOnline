@@ -1,5 +1,5 @@
 {
-    "version":  "20",
+    "version":  "21",
     "notes":  "Chapter 2 multiplayer fixes and party host settings",
     "chapters":  [
                      {
@@ -18,11 +18,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v20-20261114-105820.xdelta",
-                         "patch_sha256":  "990411c6cfc5321c1076ddee79df0836ecabaf84cab1b005a6317458ae8330ea",
+                         "patch_url":  "patches/deltarune-chapter2-online-v21-20261114-164228.xdelta",
+                         "patch_sha256":  "8f3fcb3da7427445008ce5d7d5ff9cdecc5da656fc30fd68fa33a66a0366064b",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "bfe230fd3999ccb5e6d10ecfafb357d651ceb0e6eb268b13c3b2fbbcdbc031ed",
-                         "result_bytes":  67406326,
+                         "result_sha256":  "23966ed9bc529bf73323f9411491cdf068ac6ece782a2d430e329c50cb1b3306",
+                         "result_bytes":  67427446,
                          "assets":  [
                                         {
                                             "file":  "online-font.png",
