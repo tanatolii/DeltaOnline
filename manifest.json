@@ -1,6 +1,6 @@
 {
-    "version":  "28",
-    "notes":  "Chapter 1 online update",
+    "version":  "29",
+    "notes":  "Chapter 2 online update",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -30,11 +30,11 @@
                          "chapter":  2,
                          "label":  "Chapter 2",
                          "world_id":  "online-ch2-v1",
-                         "patch_url":  "patches/deltarune-chapter2-online-v27-20261115-205716.xdelta",
-                         "patch_sha256":  "9b4e5f65635671f405ba8168187f286ece97e63b81955360c55ea07daf7310d3",
+                         "patch_url":  "patches/deltarune-chapter2-online-v29-20261115-215109.xdelta",
+                         "patch_sha256":  "7309fe01771c718a6e5cbc7991306b6e47800243faa87c495d0a95b1cb705193",
                          "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-                         "result_sha256":  "82a3fe092e49d8b8f362b0a834eb57345ea912482ca1d962325a65857b14b04e",
-                         "result_bytes":  67546742,
+                         "result_sha256":  "021b7be1733e5258e2332a41e7b6c3134a97ea4758042a31b6ca475ee2145863",
+                         "result_bytes":  67546870,
                          "assets":  [
                                         {
                                             "file":  "online-font.png",
