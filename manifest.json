@@ -1,16 +1,16 @@
 {
-    "version":  "27",
-    "notes":  "Chapter 2 online update",
+    "version":  "28",
+    "notes":  "Chapter 1 online update",
     "chapters":  [
                      {
                          "slot":  "chapter1",
                          "chapter":  1,
                          "label":  "Chapter 1",
                          "world_id":  "online-ch1-v1",
-                         "patch_url":  "patches/deltarune-chapter1-online-v26-20261115-204948.xdelta",
-                         "patch_sha256":  "6136200a34b0082c549403e72b3c601f99ebec1e49e286f26fd0a7cbffccc28a",
+                         "patch_url":  "patches/deltarune-chapter1-online-v28-20261115-214659.xdelta",
+                         "patch_sha256":  "9135d09f8335712db803840a8df4c5c93446805b4639819ddef61b07f8485a0a",
                          "original_sha256":  "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
-                         "result_sha256":  "5e7c05c27569a121f5ccec907f5c7e4541b93af1029a4d190b33cbca8e3e0bca",
+                         "result_sha256":  "427c8d73b3003569f81bfb0dfe6ddceea101b4dfd32143b3cd0c48e54c047523",
                          "result_bytes":  13576556,
                          "assets":  [
                                         {
