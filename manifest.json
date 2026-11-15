@@ -1,121 +1,121 @@
 {
-  "version": "24",
-  "notes": "Local bug and crash reports",
-  "chapters": [
-    {
-      "slot": "chapter1",
-      "chapter": 1,
-      "label": "Chapter 1",
-      "world_id": "online-ch1-v1",
-      "patch_url": "patches/deltarune-chapter1-online-v24-20261114-190721.xdelta",
-      "patch_sha256": "a7aa8db1999dac6d5a1bff935c87203585189cd8074675c1573ce624959f32d0",
-      "original_sha256": "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
-      "result_sha256": "cdf2b6f3ad1b27efe00873282f336631090a43b03feeab1229755b443799eb99",
-      "result_bytes": 13456236,
-      "assets": [
-        {
-          "file": "online-font.png",
-          "url": "assets/chapter1/c9dc40f1c92d-online-font.png",
-          "sha256": "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
-        },
-        {
-          "file": "online-font-big.png",
-          "url": "assets/chapter1/8380c79fed15-online-font-big.png",
-          "sha256": "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
-        }
-      ]
-    },
-    {
-      "slot": "chapter2",
-      "chapter": 2,
-      "label": "Chapter 2",
-      "world_id": "online-ch2-v1",
-      "patch_url": "patches/deltarune-chapter2-online-v24-20261114-190723.xdelta",
-      "patch_sha256": "8aefc08120d2475fa4ac4fc857f32a7e0023433ee5f1e3611caf65da74bd2bf9",
-      "original_sha256": "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
-      "result_sha256": "f95996273164c5f8ab6fff941d745f05cc14cf701e9b66974a0e4c4dfafd9be8",
-      "result_bytes": 67428726,
-      "assets": [
-        {
-          "file": "online-font.png",
-          "url": "assets/chapter2/c9dc40f1c92d-online-font.png",
-          "sha256": "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
-        },
-        {
-          "file": "online-font-big.png",
-          "url": "assets/chapter2/8380c79fed15-online-font-big.png",
-          "sha256": "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
-        }
-      ]
-    },
-    {
-      "slot": "chapter3",
-      "chapter": 3,
-      "label": "Chapter 3",
-      "world_id": "online-ch3-v1",
-      "patch_url": "patches/deltarune-chapter3-online-v24-20261114-190731.xdelta",
-      "patch_sha256": "31fe83dc4b7081941366da65ee4d6fc603ab0d88a588935030086fa8db25c64c",
-      "original_sha256": "c1a0925343694ec9b9adcbf2f916a720b02fd1b999286cfe8fe6a52f3320f714",
-      "result_sha256": "add40038dc39dfa7cb8616c433bdf40f42f8151e95a37b0823e5ff8c67590d00",
-      "result_bytes": 126781682,
-      "assets": [
-        {
-          "file": "online-font.png",
-          "url": "assets/chapter3/c9dc40f1c92d-online-font.png",
-          "sha256": "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
-        },
-        {
-          "file": "online-font-big.png",
-          "url": "assets/chapter3/8380c79fed15-online-font-big.png",
-          "sha256": "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
-        }
-      ]
-    },
-    {
-      "slot": "chapter4",
-      "chapter": 4,
-      "label": "Chapter 4",
-      "world_id": "online-ch4-v1",
-      "patch_url": "patches/deltarune-chapter4-online-v24-20261114-190741.xdelta",
-      "patch_sha256": "0faff3cf5a7e58c1142d56a6cdb2e322d3670bfe7001158c5e20372c37fef7fe",
-      "original_sha256": "ed64789586238b52375e994e1c1cf13694dd2d0dab57d13e639b9c892e37d8f2",
-      "result_sha256": "8c6ca0d8108dd24c1b591d3979cc0b68b9dd4727bead92b302ad88eb11aa9a97",
-      "result_bytes": 132530494,
-      "assets": [
-        {
-          "file": "online-font.png",
-          "url": "assets/chapter4/c9dc40f1c92d-online-font.png",
-          "sha256": "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
-        },
-        {
-          "file": "online-font-big.png",
-          "url": "assets/chapter4/8380c79fed15-online-font-big.png",
-          "sha256": "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
-        }
-      ]
-    },
-    {
-      "slot": "chapter5",
-      "chapter": 5,
-      "label": "Chapter 5",
-      "world_id": "online-ch5-v1",
-      "patch_url": "patches/deltarune-chapter5-online-v24-20261114-190750.xdelta",
-      "patch_sha256": "7f2f8fb36a0075e87d368f7f28fbd37b79da5c6b7f3a0645944771d99ace6fad",
-      "original_sha256": "370dfd141d2955d5a1960122919b16e4092b52ffbb85fda541bc4680c6b3b85c",
-      "result_sha256": "251fb7c542572176e9c4f6479ed93e741ffc744e4a015feff793dd9d0b627080",
-      "result_bytes": 165961084,
-      "assets": [
-        {
-          "file": "online-font.png",
-          "url": "assets/chapter5/c9dc40f1c92d-online-font.png",
-          "sha256": "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
-        },
-        {
-          "file": "online-font-big.png",
-          "url": "assets/chapter5/8380c79fed15-online-font-big.png",
-          "sha256": "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
-        }
-      ]
-    }
-  ]
+    "version":  "25",
+    "notes":  "Chapter 1 online update",
+    "chapters":  [
+                     {
+                         "slot":  "chapter1",
+                         "chapter":  1,
+                         "label":  "Chapter 1",
+                         "world_id":  "online-ch1-v1",
+                         "patch_url":  "patches/deltarune-chapter1-online-v25-20261115-153918.xdelta",
+                         "patch_sha256":  "25a3238a402fab01b604f0861c985dac1ab5dadf02a42c21e1fb09973948d10e",
+                         "original_sha256":  "82c2bb61b8d78cd287120f6301588fecba34ec5a890bac711b7a8774c760ec70",
+                         "result_sha256":  "54eafe1f0151d2dee1ab1e37e2170e3ca8407f7e7a1c2746e212d62117c7c1fd",
+                         "result_bytes":  13519596,
+                         "assets":  [
+                                        {
+                                            "file":  "online-font.png",
+                                            "url":  "assets/chapter1/c9dc40f1c92d-online-font.png",
+                                            "sha256":  "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
+                                        },
+                                        {
+                                            "file":  "online-font-big.png",
+                                            "url":  "assets/chapter1/8380c79fed15-online-font-big.png",
+                                            "sha256":  "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
+                                        }
+                                    ]
+                     },
+                     {
+                         "slot":  "chapter2",
+                         "chapter":  2,
+                         "label":  "Chapter 2",
+                         "world_id":  "online-ch2-v1",
+                         "patch_url":  "patches/deltarune-chapter2-online-v24-20261114-190723.xdelta",
+                         "patch_sha256":  "8aefc08120d2475fa4ac4fc857f32a7e0023433ee5f1e3611caf65da74bd2bf9",
+                         "original_sha256":  "047c5ab003e3e017a709c02757e119c81e0327760169512110fd276b19241e68",
+                         "result_sha256":  "f95996273164c5f8ab6fff941d745f05cc14cf701e9b66974a0e4c4dfafd9be8",
+                         "result_bytes":  67428726,
+                         "assets":  [
+                                        {
+                                            "file":  "online-font.png",
+                                            "url":  "assets/chapter2/c9dc40f1c92d-online-font.png",
+                                            "sha256":  "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
+                                        },
+                                        {
+                                            "file":  "online-font-big.png",
+                                            "url":  "assets/chapter2/8380c79fed15-online-font-big.png",
+                                            "sha256":  "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
+                                        }
+                                    ]
+                     },
+                     {
+                         "slot":  "chapter3",
+                         "chapter":  3,
+                         "label":  "Chapter 3",
+                         "world_id":  "online-ch3-v1",
+                         "patch_url":  "patches/deltarune-chapter3-online-v24-20261114-190731.xdelta",
+                         "patch_sha256":  "31fe83dc4b7081941366da65ee4d6fc603ab0d88a588935030086fa8db25c64c",
+                         "original_sha256":  "c1a0925343694ec9b9adcbf2f916a720b02fd1b999286cfe8fe6a52f3320f714",
+                         "result_sha256":  "add40038dc39dfa7cb8616c433bdf40f42f8151e95a37b0823e5ff8c67590d00",
+                         "result_bytes":  126781682,
+                         "assets":  [
+                                        {
+                                            "file":  "online-font.png",
+                                            "url":  "assets/chapter3/c9dc40f1c92d-online-font.png",
+                                            "sha256":  "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
+                                        },
+                                        {
+                                            "file":  "online-font-big.png",
+                                            "url":  "assets/chapter3/8380c79fed15-online-font-big.png",
+                                            "sha256":  "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
+                                        }
+                                    ]
+                     },
+                     {
+                         "slot":  "chapter4",
+                         "chapter":  4,
+                         "label":  "Chapter 4",
+                         "world_id":  "online-ch4-v1",
+                         "patch_url":  "patches/deltarune-chapter4-online-v24-20261114-190741.xdelta",
+                         "patch_sha256":  "0faff3cf5a7e58c1142d56a6cdb2e322d3670bfe7001158c5e20372c37fef7fe",
+                         "original_sha256":  "ed64789586238b52375e994e1c1cf13694dd2d0dab57d13e639b9c892e37d8f2",
+                         "result_sha256":  "8c6ca0d8108dd24c1b591d3979cc0b68b9dd4727bead92b302ad88eb11aa9a97",
+                         "result_bytes":  132530494,
+                         "assets":  [
+                                        {
+                                            "file":  "online-font.png",
+                                            "url":  "assets/chapter4/c9dc40f1c92d-online-font.png",
+                                            "sha256":  "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
+                                        },
+                                        {
+                                            "file":  "online-font-big.png",
+                                            "url":  "assets/chapter4/8380c79fed15-online-font-big.png",
+                                            "sha256":  "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
+                                        }
+                                    ]
+                     },
+                     {
+                         "slot":  "chapter5",
+                         "chapter":  5,
+                         "label":  "Chapter 5",
+                         "world_id":  "online-ch5-v1",
+                         "patch_url":  "patches/deltarune-chapter5-online-v24-20261114-190750.xdelta",
+                         "patch_sha256":  "7f2f8fb36a0075e87d368f7f28fbd37b79da5c6b7f3a0645944771d99ace6fad",
+                         "original_sha256":  "370dfd141d2955d5a1960122919b16e4092b52ffbb85fda541bc4680c6b3b85c",
+                         "result_sha256":  "251fb7c542572176e9c4f6479ed93e741ffc744e4a015feff793dd9d0b627080",
+                         "result_bytes":  165961084,
+                         "assets":  [
+                                        {
+                                            "file":  "online-font.png",
+                                            "url":  "assets/chapter5/c9dc40f1c92d-online-font.png",
+                                            "sha256":  "c9dc40f1c92d8c0b7a33d14e7d9fdf89efcdf3e8248a41a68387ffd602f3eac9"
+                                        },
+                                        {
+                                            "file":  "online-font-big.png",
+                                            "url":  "assets/chapter5/8380c79fed15-online-font-big.png",
+                                            "sha256":  "8380c79fed157b02fd9f3a65c56bc3d01087e2c1880fe492a76a45f16c24e410"
+                                        }
+                                    ]
+                     }
+                 ]
 }
