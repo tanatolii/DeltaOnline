@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "url": "https://raw.githubusercontent.com/tanatolii/DeltaOnline/main/software/1.0.11/DeltaOnlineSetup.exe",
-    "version": "1.0.11",
-    "sha256": "0e9aea37b05aaa4901d3250a513c8e5e274f9c40df366804d46a17369d6f2835"
+    "url": "https://raw.githubusercontent.com/tanatolii/DeltaOnline/main/software/1.0.12/DeltaOnlineSetup.exe",
+    "version": "1.0.12",
+    "sha256": "281f4fb2e009304853013a4b93814100088387c5bec7e167ff4e99d8e811242f"
   },
   "server": {
     "url": "https://raw.githubusercontent.com/tanatolii/DeltaOnline/main/software/1.0.12/DeltaruneOnlineServer.dll",
