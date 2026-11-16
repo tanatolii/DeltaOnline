@@ -5,8 +5,8 @@
     "sha256": "aa53f0421468a0d21880ebc4c7c82a1ebec8644986aff0128fb660b20b2ae461"
   },
   "server": {
-    "url": "https://raw.githubusercontent.com/tanatolii/DeltaOnline/main/software/1.0.13/DeltaruneOnlineServer.dll",
-    "version": "1.0.13",
-    "sha256": "c8b55fcfd2ca6f7f74ec8571a9e026854e4a8660f6e173b40d5ad93375da8842"
+    "version": "1.0.14",
+    "url": "https://raw.githubusercontent.com/tanatolii/DeltaOnline/main/software/1.0.14/DeltaruneOnlineServer.dll",
+    "sha256": "2cee6efac084971db6fc6d2040680089ce986106e978c6d8557ecc41cae28749"
   }
 }
