@@ -1,6 +1,6 @@
 {
-    "version":  "34",
-    "notes":  "Chapter 4 online update",
+    "version":  "35",
+    "notes":  "Chapter 5 online update",
     "chapters":  [
                      {
                          "slot":  "chapter1",
@@ -99,11 +99,11 @@
                          "chapter":  5,
                          "label":  "Chapter 5",
                          "world_id":  "online-ch5-v1",
-                         "patch_url":  "patches/deltarune-chapter5-online-v24-20261114-190750.xdelta",
-                         "patch_sha256":  "7f2f8fb36a0075e87d368f7f28fbd37b79da5c6b7f3a0645944771d99ace6fad",
+                         "patch_url":  "patches/deltarune-chapter5-online-v35-20261116-141730.xdelta",
+                         "patch_sha256":  "6e8eec23db8aaeef8bdafdd03eeb99ae26360becd4df71d4c417e375a3f59c23",
                          "original_sha256":  "370dfd141d2955d5a1960122919b16e4092b52ffbb85fda541bc4680c6b3b85c",
-                         "result_sha256":  "251fb7c542572176e9c4f6479ed93e741ffc744e4a015feff793dd9d0b627080",
-                         "result_bytes":  165961084,
+                         "result_sha256":  "1211870f9d510acd67d7cdf0607b700de1769e707b339c895fc28af2c1642184",
+                         "result_bytes":  166030076,
                          "assets":  [
                                         {
                                             "file":  "online-font.png",
